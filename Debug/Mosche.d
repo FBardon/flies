@@ -1,0 +1,1 @@
+Mosche.o: ../Mosche.c
